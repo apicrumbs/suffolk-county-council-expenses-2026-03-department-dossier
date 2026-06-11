@@ -5,7 +5,7 @@
 - recipe_id: "transparency/departmentexpenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-06-08T17:50:27+02:00"
+- last_updated: "2026-06-11T17:37:41+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
